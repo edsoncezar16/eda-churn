@@ -1,4 +1,4 @@
-# Análise Exploratoria de Dados: base de dados de churn
+# Análise Explratoria de Dados: base de dados de churn
 
 Enunciado:
 
